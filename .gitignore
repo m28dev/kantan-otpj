@@ -10,9 +10,8 @@ local.properties
 .settings/
 .loadpath
 .recommenders
-## Mavenプロジェクトでインポートすれば勝手に作られる
-.classpath
-.project
 
 # Maven
 target/
+.classpath
+.project
